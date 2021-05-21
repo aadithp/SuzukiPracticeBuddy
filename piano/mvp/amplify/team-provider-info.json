@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-piano-dev-123854-authRole",
+      "UnauthRoleArn": "arn:aws:iam::300902831159:role/amplify-piano-dev-123854-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::300902831159:role/amplify-piano-dev-123854-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-piano-dev-123854-deployment",
+      "UnauthRoleName": "amplify-piano-dev-123854-unauthRole",
+      "StackName": "amplify-piano-dev-123854",
+      "StackId": "arn:aws:cloudformation:us-east-1:300902831159:stack/amplify-piano-dev-123854/2ea86a30-33d2-11eb-afae-0ece8a4d6feb",
+      "AmplifyAppId": "d2z3aaadptdo9u"
+    },
+    "categories": {
+      "auth": {
+        "piano93e48ae1": {}
+      }
+    }
+  }
+}

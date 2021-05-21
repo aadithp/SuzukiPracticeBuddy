@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a790819-d747-4108-b622-c1707de18d19" name="Default Changelist" comment="tests done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvp/assets/pianoDatabase.db" beforeDir="false" afterPath="$PROJECT_DIR$/mvp/assets/pianoDatabase.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvp/lib/screens/learning/currentPiecePopup.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mvp/lib/screens/learning/currentPiecePopup.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvp/lib/screens/review/Wheel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mvp/lib/screens/review/Wheel.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvp/test/other_tests/reset_tests.dart" beforeDir="false" afterPath="$PROJECT_DIR$/mvp/test/other_tests/reset_tests.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+        <option value="Concept" />
+        <option value="Specification" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/mvp/lib/screens/studentHomePage/StudentPage.dart" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1kW9Zw6kkldLldJmepYU1LV8qtm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/mvp/assets/backgrounds" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.python" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\joeha\OneDrive\piano\mvp\assets\backgrounds" />
+      <recent name="C:\Users\Owner\Documents\GitHub\piano\mvp\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\joeha\OneDrive\piano\mvp\test\widget_tests" />
+      <recent name="C:\Users\joeha\OneDrive\piano\mvp\test\database_tests" />
+      <recent name="C:\Users\joeha\OneDrive\piano\mvp\lib\pages" />
+      <recent name="C:\Users\joeha\OneDrive\piano\mvp\lib\otherWidgets\achievements" />
+      <recent name="C:\Users\Owner\Documents\GitHub\piano\mvp\lib\screens\learning" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/mvp/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="All Tests" type="FlutterTestConfigType" factoryName="Flutter Test">
+      <option name="testFile" value="C:\Users\joeha\OneDrive\piano\mvp\test\widget_tests\allWidget_Tests.dart" />
+      <option name="additionalArgs" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Flutter.main.dart" />
+      <item itemvalue="Flutter Test.All Tests" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a790819-d747-4108-b622-c1707de18d19" name="Default Changelist" comment="" />
+      <created>1605805539572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605805539572</updated>
+      <workItem from="1605806635920" duration="1728000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added 2 closing tags in workspace">
+      <created>1608050855264</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608050855264</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Minor Tweek">
+      <created>1613501117734</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613501117734</updated>
+    </task>
+    <task id="LOCAL-00003" summary="When a piece is marked as the current piece, all its 'review pieces' are added to the wheel for review (For book 1 only atm). When the wheel is spun and a piece is marked as done it is removed from the wheel. When only 1 piece is available for review the wheel is bi-passed and the piece shows on its own (still need to add a done button for that). Text on the wheel needs tweaking as it looks dodgy when lots of pieces are added.">
+      <created>1613518882045</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613518882045</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Very simple database added for pieces but not implemented (yet). Removed color from pieces class, still need to implement randomised colour selection.">
+      <created>1614205044122</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1614205044122</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Database for pieces and review pieces fully integrated. Colors on the wheel currently cycle through a set list. Piece preview is currently always displayed in purple.">
+      <created>1614453729621</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1614453729622</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fixed database synchronisation issues so that &quot;progress&quot; is now saved when exiting the app. Added a button to reset the app progress in the settings page.">
+      <created>1616011385392</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1616011385393</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fixed the issue where navigation bar wouldn't load home page from within the shop page.">
+      <created>1616775572287</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1616775572287</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added confirm purchase/ cancel alert dialog for shop items. Colors need tweaking.">
+      <created>1616780084070</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1616780084071</updated>
+    </task>
+    <task id="LOCAL-00009" summary="working on coins animation">
+      <created>1616871762649</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1616871762649</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added coins awarding animation for when the user completes either listening, review, or practice current piece task. (Had to update flutter version so will be some version issues).">
+      <created>1616876622719</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1616876622719</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added piano jingle for when coins are awarded">
+      <created>1616880254492</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1616880254492</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added purchase sound when buying items in the shop">
+      <created>1616880623763</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1616880623764</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added a check for whether the user has completed their listening task for the day. The listening page loads accordingly">
+      <created>1616883224472</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1616883224472</updated>
+    </task>
+    <task id="LOCAL-00014" summary="review wheel now resets after all pieces on it have been reviewed">
+      <created>1616884729516</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1616884729516</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Fixed navigation back to home from shop. Re-added the review wheel reset function that resets the review wheel after all pieces have been reviewed.">
+      <created>1617211749020</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1617211749020</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added not enough coins widget for when a user tries to purchase an item they cant afford.">
+      <created>1617213512845</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1617213512845</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Backgrounds now purchasable. Can be equipped in the inventory screen. Tweaked loading widget so that navigation is a tad less glitchy, still needs work. Removed current piece button to begin work on better implementation.">
+      <created>1617742063514</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1617742063514</updated>
+    </task>
+    <task id="LOCAL-00018" summary="tweaked inventory items text positioning">
+      <created>1617742338839</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1617742338839</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Experimenting with a slide out tab for current piece">
+      <created>1617742741564</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1617742741564</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added inventory button to home page and added sound when equipping backgrounds">
+      <created>1617989802262</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1617989802263</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Added current piece 'book' to main screen. Book is just a basic box at the moment but could be customised easily. The book displays the current piece, allows the current piece to be practiced. When clicking on the current piece the user has the option to advance to the next piece.">
+      <created>1618086824242</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1618086824242</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Added new cover to practice book">
+      <created>1618943312099</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1618943312099</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Added piece selector. It's kinda good can't lie :0">
+      <created>1618954647017</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1618954647017</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Added green outline for currently selected piece in piece selector">
+      <created>1619024961250</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1619024961250</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Working on achievement notifications">
+      <created>1619190124991</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1619190124991</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Achievements working. Still need to create a place for them in settings">
+      <created>1619202205894</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1619202205894</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Added piano jingle to other coins animation">
+      <created>1619202607004</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1619202607004</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Added confirmation for reset button">
+      <created>1619204401372</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1619204401372</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Achievements page added in settings. Needs some tweaks.">
+      <created>1619385180554</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1619385180554</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Achievements finished">
+      <created>1619453857414</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1619453857414</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Added random colors to piece selector as well as piece preview in booklet">
+      <created>1619455424820</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1619455424820</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Added completionist achievement">
+      <created>1619457753794</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1619457753794</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Made piece booklet bigger">
+      <created>1619458795273</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1619458795274</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Bought items can now be equipped from the shop">
+      <created>1619459040304</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1619459040304</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Tweaks to settings page and piece color selection (removed yellow).">
+      <created>1619461254319</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1619461254319</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Changes to listening page">
+      <created>1619464072714</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1619464072714</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Changes to listening page">
+      <created>1619464450148</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1619464450148</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Fixed issue of achievements overlapping. Now show one after another. Achievements now show for slightly longer.">
+      <created>1619551905751</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1619551905751</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Tweaked other achievements display time">
+      <created>1619552291157</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1619552291157</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Added text to piece booklet">
+      <created>1619552541547</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1619552541547</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Colors from wheel synced with preview colour.">
+      <created>1620401711276</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1620401711276</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Piece color in booklet now matched color in piece picker wheel.">
+      <created>1620403578259</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1620403578259</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Added more backgrounds. Fixed review page bug when no review pieces prevents from loading. CLeaned up a bunch of unused code">
+      <created>1620406268646</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1620406268646</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Cleaned up more unused code">
+      <created>1620406584038</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1620406584038</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Bug fixes and more clean up">
+      <created>1620407620560</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1620407620560</updated>
+    </task>
+    <task id="LOCAL-00046" summary="More bug fixing ;)">
+      <created>1620408011389</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1620408011389</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Listening page bug fix">
+      <created>1620753284943</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1620753284943</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Working on testing">
+      <created>1620917874638</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1620917874638</updated>
+    </task>
+    <task id="LOCAL-00049" summary="tests done">
+      <created>1620997179999</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1620997179999</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added green outline for currently selected piece in piece selector" />
+    <MESSAGE value="Working on achievement notifications" />
+    <MESSAGE value="Achievements working. Still need to create a place for them in settings" />
+    <MESSAGE value="Added piano jingle to other coins animation" />
+    <MESSAGE value="Added confirmation for reset button" />
+    <MESSAGE value="Achievements page added in settings. Needs some tweaks." />
+    <MESSAGE value="Achievements finished" />
+    <MESSAGE value="Added random colors to piece selector as well as piece preview in booklet" />
+    <MESSAGE value="Added completionist achievement" />
+    <MESSAGE value="Made piece booklet bigger" />
+    <MESSAGE value="Bought items can now be equipped from the shop" />
+    <MESSAGE value="Tweaks to settings page and piece color selection (removed yellow)." />
+    <MESSAGE value="Changes to listening page" />
+    <MESSAGE value="Fixed issue of achievements overlapping. Now show one after another. Achievements now show for slightly longer." />
+    <MESSAGE value="Tweaked other achievements display time" />
+    <MESSAGE value="Added text to piece booklet" />
+    <MESSAGE value="Colors from wheel synced with preview colour." />
+    <MESSAGE value="Piece color in booklet now matched color in piece picker wheel." />
+    <MESSAGE value="Added more backgrounds. Fixed review page bug when no review pieces prevents from loading. CLeaned up a bunch of unused code" />
+    <MESSAGE value="Cleaned up more unused code" />
+    <MESSAGE value="Bug fixes and more clean up" />
+    <MESSAGE value="More bug fixing ;)" />
+    <MESSAGE value="Listening page bug fix" />
+    <MESSAGE value="Working on testing" />
+    <MESSAGE value="tests done" />
+    <option name="LAST_COMMIT_MESSAGE" value="tests done" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

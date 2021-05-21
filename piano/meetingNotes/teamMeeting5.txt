@@ -1,0 +1,37 @@
+Topic: New MVP Plan
+Date: 03/12/2020
+
+
+*** basic structure of the student page ***
+SUZUKI PRACTICE/REVIEW BUDDY:
+Today's Tasks
+    Current Piece
+     - show's piece
+     - practised? (yes/no)
+    Review
+     - Wheel of Fortune style, or picking from hat, something fun/engaging
+     - linked to current piece they play
+     - some sort of rewarding action/sound when they've done it
+     - just one review set each day
+    Listening
+     - have you listened to your recordings? (yes/no)
+     
+Current piece and listening come as pop-ups when you click on them, review opens a new page
+
+Will have a log in page, but will need no credentials to get to main page
+Wheel of Fortune could just be a button and randomiser for MVP
+
+
+TASKS:
+ - Log in: ...
+ - Home page: Yuqing
+ - Aesthetics/Design: Daniel
+ - Review page: Aadith (and Joe)
+ - Settings: Thomas
+ 
+
+MENTOR COMMENTS:
+ - we seem to be going along fine
+ - passed on CircleCI and AWS problems to Simon
+    - would recommend speaking to Dan over Simon
+ - keep going with what we have got, don't worry too much for MVP, what we already have would probably be fine

@@ -1,0 +1,38 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-piano-dev-123854-authRole",
+      "UnauthRoleArn": "arn:aws:iam::300902831159:role/amplify-piano-dev-123854-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::300902831159:role/amplify-piano-dev-123854-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-piano-dev-123854-deployment",
+      "UnauthRoleName": "amplify-piano-dev-123854-unauthRole",
+      "StackName": "amplify-piano-dev-123854",
+      "StackId": "arn:aws:cloudformation:us-east-1:300902831159:stack/amplify-piano-dev-123854/2ea86a30-33d2-11eb-afae-0ece8a4d6feb",
+      "AmplifyAppId": "d2z3aaadptdo9u"
+    }
+  },
+  "auth": {
+    "piano93e48ae1": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false,
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-piano-dev-123854-deployment/amplify-cfn-templates/auth/piano93e48ae1-cloudformation-template.yml",
+        "logicalId": "authpiano93e48ae1"
+      },
+      "lastPushTimeStamp": "2020-12-01T12:43:10.127Z",
+      "output": {
+        "AppClientSecret": "na0pomce9o69r6v245avb62jnmg4125o7muc5q0s5ak8tmu8s53",
+        "UserPoolId": "us-east-1_uaehdQibq",
+        "AppClientIDWeb": "cv82lju1rnn3f532kt4vrljvk",
+        "AppClientID": "ovguc168so6oqg1u2fvck71ko",
+        "IdentityPoolId": "us-east-1:d1e66bbd-e97b-4f60-9726-e1eb2dda0595",
+        "IdentityPoolName": "piano93e48ae1_identitypool_93e48ae1__dev",
+        "UserPoolName": "piano93e48ae1_userpool_93e48ae1"
+      },
+      "lastPushDirHash": "3QWLo8XnW/oNMhKR4z3UMEONgX8="
+    }
+  }
+}

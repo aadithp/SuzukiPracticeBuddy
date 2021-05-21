@@ -1,0 +1,85 @@
+Date: 29/10/2020
+Topic: Initial Client Meeting
+
+
+Q: What is the purpose of the app?
+
+A: Student learns skills from pieces, may use skills from previous pieces and need to review them, i.e keep practicing old pieces
+  - skills might be: playing fast, playing slow, different styles
+  - have pieces on 'wheel of fortune' or dice, with rewards when finished
+  - maybe used by teachers as a challenge
+      - e.g. 50 days to christmas, how many rewards can you get?
+
+
+Q: What platform (Android/iOS)?
+
+A: Both preferably
+
+
+Q: What inputs is the system supposed to take?
+      - Teachers lesson notes?
+      - Notes from parents/student from practice?
+
+A: Teacher meets parents weekly for discussions, so this is to give students a 'review list'
+   students can also see what other students have done (i.e. how many challenges/rewards)S
+
+
+Q: Do teachers input pieces/exercises done in lesson, then these are put into a random practice regime?
+
+A: Just give the students a lsit of pieces to review, with tick boxes and maybe rewards
+
+
+Q: Do parents need to make notes?
+      - Will these be on each piece, or each practice session?
+
+A: Parents judge if they have done their review or not
+
+
+Q: How will a new student be added to the app/their teacher?
+
+A: Students/parents and teachers have their own accounts on their own phones
+Teachers should have access to all their students, so they can see each students individual progress, so they could be linked by teacher selecting or by giving a code
+
+      
+Q: How will the practice timetable look/ function?
+
+A: not necessarily a timetable, but maybe tickboxes/smiley faces asking if they've done their review today, and reminding them to do it each day (positive feedback)
+
+
+Q: Are the revision pieces additional to the pieces set by the teacher?
+      - Will the list of pieces be input by the teacher, or be built in to the app?
+      - Will the teacher split the list into ability levels/will it already be
+        split?
+
+A: Teacher can add pieces to each students 'review list', as well as the standard review list
+     - i.e. one piece builds on a skill learnt in a previous piece, those pieces are in the standard list, and the teacher can add other individual pieces
+
+
+The list should be built in, with the teacher being given the option to add or remove further additional pieces from a list for EACH student
+
+The teacher decides when the child is ready to start the next piece
+Method is called 'THE SUZUKI METHOD'
+Method is like learning a language - you never actually learn a piece fully, you need to keep going back to it and reviewing it to retain the skill
+
+Possibly a fixed lesson time
+
+Targeted at younger students (primary school)
+Make it fun!!! Rather than practicing piano being a chore
+
+It will probably be on the parents phone, and the child can use it to motivate them to practice
+Possibly scored by number of reviews, or number of reviews in one session - music is hard to measure
+It is more about rewarding students individually for their work
+Maybe leaderboards to motivate students to 'do better' that other students
+'The more you practice, the better you get'
+Teacher can then see this and base their lesson on what the child has done on the app, and what they can reproduce in the lesson
+
+Maybe students are rewarded with coins, based on approval from the teachers if they can reproduce it in the lesson
+
+
+'Piano Review App'
+UNDERSTANDING:
+There is a list of pieces built in, getting more difficult - sometimes a piece will be harder than the next one, or easier than the previous one
+The student starts with the easier pieces, learning core skills
+When the teachers thinks they can play at a good enough level, they can move them on to the next piece
+They will still have to review some of their previous pieces, but not all because that may be too much work
+
