@@ -1,7 +1,6 @@
 ## **Privacy Notice**
-### *Last updated January 31, 2021*
+### *Last updated June 07, 2021*
 </br>
 
-### We will not be collecting any data, so we will be compliant with GDPR and the cookie law.
-
-
+### The privacy policy is simple: no personal data shared with us will be given to any third party, under any circumstances. Your data will also never be used by us for any purpose without specific permission.
+### The app engages in no ad targeting, data mining, or other activities that may compromise your privacy, and we do not affiliate ourselves with any third parties that do so.
